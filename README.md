@@ -1,1 +1,1 @@
-# Hackkk
+# BCG Hackathon
